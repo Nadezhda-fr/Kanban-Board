@@ -1,0 +1,29 @@
+.column_form {
+    width: 100%;
+  }
+  .column_textarea {
+    height: 36px;
+    display: block;
+    width: 100%;
+    background-color: #fff;
+    padding: 7px 9px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: none;
+  }
+  .button {
+    padding: 7px 17px;
+    border: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #fff;
+    background-color: #0079bf;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.5s ease-in-out;
+  }
+  .button:hover {
+    background-color: #015e94;
+  }
